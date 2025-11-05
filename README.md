@@ -20,7 +20,6 @@ The system tracks each person’s movement across frames, defines a virtual coun
 - **Tracking:** Centroid tracking logic
 
 ---
-
 ## ⚙️ Setup Instructions
 ### Install dependencies
 ```bash
